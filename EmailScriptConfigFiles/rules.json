@@ -1,0 +1,8 @@
+{
+    "rules":{
+        "windows":{
+            "User": "data,win,eventdata,user",
+            "Target File Name": "data,win,eventdata,targetFilename"
+        }
+    }
+}
