@@ -38,4 +38,4 @@ This script allows administrators to automate email notifications for alerts, en
 - **Cryptography Library**: For decrypting the user credentials.
 - **SMTP Server**: For sending emails.
 
-The script expects command-line arguments, including the location of the alert file and a decryption key, to function correctly. This is done automatically by Wazuh. But incase you want to run it manually you must provide them.
+The script expects command-line arguments, including the location of the alert file and a decryption key, to function correctly. This is done automatically by Wazuh. But in case you want to run it manually you must provide them.
