@@ -12,7 +12,7 @@
 # Configuration example:
 #
 #  <integration>
-#      <name>customEmailAlerts.py</name>
+#      <name>custom-EmailAlerts.py</name>
 #      <hook_url>decryptionKey</hook_url>
 #      <level>15</level>
 #      <alert_format>json</alert_format>
