@@ -1,3 +1,8 @@
+### Update:
+As of 08.05.2025 a new version is in the works to use the same modules with the Log Monitoring script.
+
+### Version 1.0
+
 This Python script uses the integration feature of Wazuh to send customizable email alerts based on a JSON alert file. It processes incoming alerts, and sends detailed email notifications to recipients. Here's a breakdown of the script:
 
 ### Key Features:
